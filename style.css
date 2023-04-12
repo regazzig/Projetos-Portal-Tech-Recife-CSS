@@ -1,0 +1,71 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(205, 155, 155);   
+}
+
+main {
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    justify-content:center;
+    font-size:large;
+    background-color: rgb(202, 135, 135);  
+    border-radius: 5%;
+    color: rgb(48, 21, 4);
+}
+
+header {
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    font-size:large;
+    letter-spacing: 8px;
+    border: 10px;
+    margin-bottom: 30px;
+    background-color: rgb(205, 155, 155);
+}
+
+.marco_zero {
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    font-size:large;
+    margin-top: 44px;
+}
+
+.fotos_marco_zero img {
+    padding: 0px;
+    margin: 14px;
+    justify-content:center;
+    align-content: center;
+    border: 3px solid rgb(5, 5, 5);
+    border-radius: 5%;
+
+}
+
+footer {
+    padding: 8px;
+    margin: 12px;
+    text-align: center;
+    font-size:large; 
+    height: 100px;
+    width: 900px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer a {
+    text-decoration: none;
+    color: rgb(244, 244, 244);
+}
+
+footer nav {
+    text-align: center;
+}
+
